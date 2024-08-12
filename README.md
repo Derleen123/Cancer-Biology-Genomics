@@ -35,13 +35,7 @@ BiocManager::install(c("TCGAbiolinks", "edgeR", "limma", "EDASeq", "SummarizedEx
 install.packages('gplots')
 
 ## Usage
-
-1. Set your working directory in R:
- 
-   setwd("/path/to/cancer-biology-genomics-project")
-   
-
-2. Run the main script:
+1. Run the main script:
   
    source("paad_analysis.R")
   
