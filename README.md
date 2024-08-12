@@ -36,19 +36,12 @@ install.packages('gplots')
 
 ## Usage
 
-1. Clone this repository:
-
-   git clone https://github.com/Derleen123/Cancer-Biology-Genomics.git
-   cd Cancer-Biology-Genomics
-
- 
-
-2. Set your working directory in R:
+1. Set your working directory in R:
  
    setwd("/path/to/cancer-biology-genomics-project")
    
 
-3. Run the main script:
+2. Run the main script:
   
    source("paad_analysis.R")
   
