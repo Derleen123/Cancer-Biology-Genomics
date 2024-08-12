@@ -37,7 +37,7 @@ install.packages('gplots')
 ## Usage
 1. Run the main script:
   
-   (paad_analysis.R)
+   paad_analysis.R: https://github.com/Derleen123/Cancer-Biology-Genomics/blob/main/paad_analysis.R
   
 
 ## Workflow
