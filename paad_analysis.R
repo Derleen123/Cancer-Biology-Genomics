@@ -2,7 +2,7 @@
 setwd("/Users/Derleen/Desktop/Hackbio_courses/Projects/PAAD_project")
 # Set the library path
 .libPaths("/Users/Derleen/Desktop/Hackbio_courses/Hackbio_test")
-# Install necessary packages (if not already installed)
+# Install necessary packages 
 if (!requireNamespace("BiocManager", quietly = TRUE)) {
   install.packages("BiocManager")
 }
